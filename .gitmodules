@@ -1,0 +1,6 @@
+[submodule "nestjs-backend"]
+	path = nestjs-backend
+	url = https://github.com/leo-guinan/nestjs-backend
+[submodule "blitzjs-frontend"]
+	path = blitzjs-frontend
+	url = https://github.com/leo-guinan/blitzjs-frontend
